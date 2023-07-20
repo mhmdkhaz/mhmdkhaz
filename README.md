@@ -6,15 +6,13 @@ align="left">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSp
 
 - 👦 I love using Software as a solution for every Problem **.**
 
-- 🤓 Always learning new things 1 **.**
-
 - ⚡  I love coding and learning new things
 
 - 🎨 Will Learn: Redux, Next, Node.js, ...
 
 - 📫 How to reach me [kh659043@gmail.com]
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="center" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 
 <h3 align="left">Languages and Tools:</h3>

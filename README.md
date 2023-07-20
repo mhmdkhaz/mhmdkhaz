@@ -12,7 +12,7 @@ align="left">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSp
 
 - 🎨 Will Learn: Redux, Next, Node.js, ...
 
-- 📫 How to reach me []
+- 📫 How to reach me [kh659043@gmail.com]
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 

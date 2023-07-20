@@ -1,5 +1,5 @@
 <h1
-align="left">Hi there 👋, I'm Mohammed</h1>
+align="left">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Mohammed</h1>
 <h3>I'm a React Developer</h3>
 
 ## 👨🏻‍💻 &nbsp;About Me

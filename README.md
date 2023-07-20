@@ -1,5 +1,5 @@
 <h1
-align="left">Hi there 👋, I'm Wahed</h1>
+align="left">Hi there 👋, I'm Mohammed</h1>
 <h3>I'm a React Developer</h3>
 
 ## 👨🏻‍💻 &nbsp;About Me
@@ -8,11 +8,14 @@ align="left">Hi there 👋, I'm Wahed</h1>
 
 - 🤓 Always learning new things 1 **.**
 
-- 💬 Skills: HTML5, CSS3, JS, REACT, BOOTSTRAP, REACT-ROUTER, TAILWIND CSS, ...
+- ⚡  I love coding and learning new things
 
 - 🎨 Will Learn: Redux, Next, Node.js, ...
 
-- 📫 How to reach me [mohammedkoudsi48@gmail.com]
+- 📫 How to reach me []
+
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
 
 <h3 align="left">Languages and Tools:</h3>
 
